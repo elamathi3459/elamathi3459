@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 I'm currently working on:<br>Building AI-driven data pipelines and LLM applications using AWS, Snowflake, and DBT.<br><br>🤝 I'm looking to collaborate on:<br>Data science, AI/ML projects, and cloud-based data pipelines.<br><br>🌱 I'm currently learning:<br>Advanced Kubernetes deployments and Azure cloud solutions to expand my cloud expertise.<br><br>💬 Ask me about:<br>LLMs, AWS cloud architecture, and data pipeline automation.<br><br>🔍 Fun fact:<br>I was a finalist in the OpenCV AI Challenge and Grainger Innovation Competition.
+👩‍💻 I'm currently working on:<br>Building AI-driven data pipelines and LLM applications using AWS, Snowflake.<br><br>🤝 I'm looking to collaborate on:<br>Data science, AI/ML projects, and cloud-based data pipelines.<br><br>🌱 I'm currently learning:<br> Researching on Gen AI topics and LLM Models <br><br>💬 Ask me about:<br> ML, LLMs, AWS/Azure cloud architecture, Snowflake, DBT, Airflow and data pipeline automation.<br><br>🔍 Fun fact:<br>Winner of Technica 2020 Hackathon and finalist in the OpenCV AI Challenge and Grainger Innovation Competition 2021.
 
 
 ## 🌐 Socials:
